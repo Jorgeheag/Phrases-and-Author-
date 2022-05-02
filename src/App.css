@@ -1,0 +1,46 @@
+.App {
+  background-color: brown;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  height: 100vh;
+ 
+}
+
+.phrase{
+  background-color: aliceblue;
+  width: 90vh;  
+  justify-content: end;
+
+}
+
+.author{
+  text-align: end;
+  padding-right: 10px;
+
+}
+
+.found{
+  width:315vh;
+  height: 100vh;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+}
+
+.buttonP{
+  padding-bottom: 10px;
+  display: flex;
+  justify-content: end;
+  padding-right: 10px;
+}
+
+button {
+  padding: 7px;
+  border-radius: 5px;
+}
+
+
+
